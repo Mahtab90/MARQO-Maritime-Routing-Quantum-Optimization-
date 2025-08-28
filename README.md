@@ -1,4 +1,5 @@
 TRAMP_TSP_BIG_v1 (TSP/VRP-STYLE)
+----------------------------------------------------------------------
 
 Zip: TRAMP_TSP_BIG_v1.zip
 Contents:
@@ -71,9 +72,9 @@ Minimize total completion time or makespan.
 Minimize sailing time plus service time.
 
 Minimize weighted delays subject to capacities and exclusivity.
-----------------------------------------------------------------------
-BAP_TW_BIG_v1 (BERTH ALLOCATION WITH TIME WINDOWS)
 
+BAP_TW_BIG_v1 (BERTH ALLOCATION WITH TIME WINDOWS)
+----------------------------------------------------------------------
 Zip: BAP_TW_BIG_v1.zip
 Contents:
 
